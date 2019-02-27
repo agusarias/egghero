@@ -13,6 +13,8 @@ I made this to test how was the development and deployment of an Android game. I
 
 It's a [libGDX](https://libgdx.badlogicgames.com/) project, that uses [Gradle](https://gradle.org/) as a dependency manager.
 
+To play it just run `./gradlew run` in the root of the project. Have fun!
+
 ## Contribution
 
 I'm not developing this any further, but you can send a PR if you feel like adding or fixing anything :)
